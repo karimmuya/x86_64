@@ -5,7 +5,8 @@ _start:
 
 	
 	; Create the socket
-
+	
+	
 	push 0x66 		
 	pop eax			
 	push 0x1		
